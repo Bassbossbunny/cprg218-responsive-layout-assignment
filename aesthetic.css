@@ -41,4 +41,20 @@ body {
         border: .2rem solid #d9043d;
         max-width: 100%;
     }
+
+/* Aside */
+    aside {
+        background-color: #97bf04;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+        }
+
 /* Footer */
+footer {
+    background-color: #d9043d;
+    color: #fff;
+    padding: 1rem;
+    margin-top: 1rem;
+    text-align: center;
+}
