@@ -24,7 +24,11 @@ body {
         padding: 1rem;
     }
 
-/* Puffin cont. & fig + img  */
+/* Puffin related - cont. & fig + img  */
+
+    figure figcaption h2 {
+        color: #120323;
+    }
 
     #container {
         align-items: center;
