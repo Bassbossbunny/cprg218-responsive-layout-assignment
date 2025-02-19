@@ -5,6 +5,7 @@ Rachel Payette - 000956888
 ## Attributes
 
 Used site for referenceing Flexbox Syntax.
+
 →
 "CSS-Tricks. Section(s): CSS Flexbox Layout Guide. Authored by: 
 Chris Coyier 2024. 
