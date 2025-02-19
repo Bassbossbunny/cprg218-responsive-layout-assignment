@@ -4,7 +4,6 @@
     font-family: sans-serif;
     }
 
-/* Reminder to self: start with smallest-size/phone and then to largets/desktop, as per Dan recommendation */
 
 /* less than 768px wide/
 
@@ -119,19 +118,4 @@ body {
     footer {
         padding: 2rem;
     }
-    /*
-    main {
-        flex-direction: row;
-        align-items: flex-start;
-    }
-
-    aside {
-        flex-direction: column;
-
-    }
-
-    #container {
-        flex-direction: row;
-        align-items: flex-start;
-    } */
 }
